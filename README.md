@@ -23,11 +23,11 @@ Atualmente sou estudante de Engenharia de Software, focado em desenvolver habili
 * **Ferramentas:** Controle de versão com Git e GitHub.
 
 ### Habilidades e Competências
-* **Pensamento lógico e analítico
-* **Resolução de problemas
-* **Facilidade de aprendizado
-* **Organização e disciplina
-* **Trabalho em equipe
+* **Pensamento lógico e analítico**
+* **Resolução de problemas**
+* **Facilidade de aprendizado**
+* **Organização e disciplina**
+* **Trabalho em equipe**
 
 ### Projetos Acadêmicos
 - Sistema simples em Portugol para conversão de temperaturas na escala Celsius para a escala Kelvin
