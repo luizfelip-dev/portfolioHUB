@@ -32,4 +32,6 @@ Atualmente sou estudante de Engenharia de Software, focado em desenvolver habili
 
 ### Projetos Acadêmicos
 
+- [Sistema de Banco de Dados - Academia](./projetos-academicos/seminario_academia.pdf)
+- [Projeto de Circuito DC](./projetos-academicos/projeto_circuito_dc.pdf)
 
