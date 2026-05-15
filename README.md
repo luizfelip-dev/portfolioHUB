@@ -31,5 +31,5 @@ Atualmente sou estudante de Engenharia de Software, focado em desenvolver habili
 * **Trabalho em equipe**
 
 ### Projetos Acadêmicos
-- [Sistema de um banco de dados para um academia simples usado em um Seminário](https://docs.google.com/presentation/d/1fahh-OZNgVgRKXhG7Lb-TUGud7mKgGP9/edit?usp=sharing&ouid=102527127412417459881&rtpof=true&sd=true)
-- [Projeto de circuito DC desenvolvido na disciplina de Introdução à Engenharia](https://docs.google.com/document/d/1hkBZMcDcBzpSadQhY5gEwZq3ycFiUs71KpFz10FHMn0/edit?usp=sharing)
+
+
