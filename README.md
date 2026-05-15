@@ -31,7 +31,5 @@ Atualmente sou estudante de Engenharia de Software, focado em desenvolver habili
 * **Trabalho em equipe**
 
 ### Projetos Acadêmicos
-
-- [Sistema de Banco de Dados - Academia](./projetos-academicos/seminario_academia.pdf)
-- [Projeto de Circuito DC](./projetos-academicos/projeto_circuito_dc.pdf)
+- [Clique aqui para ver meus projetos pessoais (Banco de dados para uma academia e Circuito DC)](https://github.com/luizfelip-dev/portfolioHUB/tree/main/projetos-academicos)
 
