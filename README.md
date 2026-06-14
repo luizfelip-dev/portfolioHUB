@@ -9,7 +9,7 @@ Atualmente sou estudante de Engenharia de Software, focado em desenvolver habili
 
 **Contato:**
 * 📧 **E-mail:** [luizfelipedemello4@gmail.com] 
-* 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/luiz-felipe-ribeiro-b14317393/">
+* 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/luiz-felipem-dev/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="25"></a>
 ---
 
