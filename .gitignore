@@ -1,0 +1,17 @@
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
+
+# Dependências futuras
+node_modules/
+
+# Arquivos sensíveis
+.env
