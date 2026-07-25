@@ -16,7 +16,7 @@ Atualmente sou estudante de Engenharia de Software, focado em desenvolver habili
 ##  Currículo
 ### Formação Acadêmica
 * **Bacharelado em Engenharia de Software** 
-  Centro Universitário de Brasília (CEUB) | Previsão de conclusão: [2030]
+  Centro Universitário de Brasília (CEUB) | Previsão de conclusão: [2029]
 
 ### Habilidades Técnicas
 * **Lógica e Programação:** Experiência com algoritmos, VisualG e Portugol.
