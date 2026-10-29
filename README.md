@@ -8,7 +8,7 @@
 Atualmente sou estudante de Engenharia de Software, focado em desenvolver habilidades sólidas em lógica de programação e arquitetura de sistemas. Busco aplicar meus conhecimentos técnicos em projetos práticos que contribuam para minha evolução profissional e acadêmica.
 
 **Contato:**
-* 📧 **E-mail:** [luizfelipedemello4@gmail.com] 
+* 📧 **E-mail:** [luizfmello4@gmail.com] 
 * 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/luiz-felipem-dev/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="25"></a>
 ---
